@@ -1,1 +1,1 @@
-"This is the content of File C" 
+"This is the content of File C. Version 1" 
